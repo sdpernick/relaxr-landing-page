@@ -1,0 +1,196 @@
+/*
+Project Name: Blank Template
+Client: Your Client
+Author: Your Name
+Developer @GA in NYC
+*/
+
+
+/******************************************
+/* SETUP
+/*******************************************/
+
+/* Box Model Hack */
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+	
+}
+
+#hero {
+	background-repeat: no-repeat;
+background-size: cover;
+background-image: url("../images/header_bg.jpg");
+width: 100%;
+height: 600px;
+}
+
+#relaxr {
+	font-size: 48px;
+	font-weight: 800;
+	font-family: 'Open Sans', San-Serif;
+	color: white;
+	padding-left: 100px;
+}
+
+h1 {
+	font-size: 48px;
+	font-weight: 600;
+	font-family: 'Open Sans', San-Serif;
+	color: white;
+	text-align: center;
+	padding-bottom: 40px;
+	padding-top: 80px;
+}
+
+.button-one {
+	font-size: 28px;
+	font-weight: 800;
+	font-family: 'Open Sans', San-Serif;
+	border-radius: 5px;
+	text-align: center;
+	background-color: yellow;
+	display: inline-block;
+	margin-left: 540px;
+	margin-right: 540px;
+
+}
+
+h2 {
+	font-size: 40px;
+	font-weight: 600;
+	font-family: 'Open Sans', San-Serif;
+	color: #606161;
+	padding-left: 100px;
+}
+
+p{
+	font-size: 26px;
+	font-weight: 300;
+	font-family: 'Open Sans', San-Serif;
+	color: #606161;
+	padding-left: 100px;
+}
+
+ul {
+	font-size: 26px;
+	font-weight: 300;
+	font-family: 'Open Sans', San-Serif;
+	color: #606161;
+	padding-left: 200px;
+}
+
+#benefits {
+	background-color: #f0efef;
+	padding: 20px 0px;
+}
+
+#intuit {
+	background-repeat: no-repeat;
+background-size: cover;
+background-image: url("../images/testimonial_bg.jpg");
+width: 100%;
+height: 300px;
+padding-top: 30px;
+}
+
+p.travel {
+    color: white;
+	text-align: center;
+	font-size: 36px;
+	font-weight: 300;
+	font-style: italic;
+	font-family: 'Open Sans', San-Serif;
+	padding-bottom: 40px;
+	margin-right: 180px;
+	margin-left: 80px;
+}
+
+#amanda {
+	color: white;
+	text-align: center;
+    font-size: 36px;
+	font-weight: 600;
+	font-family: 'Open Sans', San-Serif;
+	padding-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.button-two {
+	font-weight: 800;
+	font-size: 24px;
+	border-radius: 5px;
+    font-family: 'Open Sans', San-Serif;
+    text-align: center;
+    background-color: #033048;
+	display: inline-block;
+	color: white;
+	margin-left: 540px;
+	margin-right: 540px;
+	margin-top: 30px;
+    margin-bottom: 30px;
+    padding:10px 16px;
+}
+
+#signup {
+	background-color: #f9e42e;
+}
+
+#socialmedia {
+	background-color: #121212;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.relax {
+    color: #f1EF76;
+    font-size: 48px;
+	font-weight: 800;
+	font-family: 'Open Sans', San-Serif;
+	text-align: center;
+	margin-right: 100px;
+}
+
+.copyright {
+    font-size: 18px;
+	font-weight: 600;
+	font-family: 'Open Sans', San-Serif;
+	color: white;
+	text-align: center;
+	margin-right: 100px;
+	padding-top: 40px;
+}
+
+#media1 {
+	margin-left: 580px;
+	margin-right: 40px;
+	padding-bottom: 50px;
+}
+
+#media2 {
+	padding-bottom: 50px;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+
+
+
